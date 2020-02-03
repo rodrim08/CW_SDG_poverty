@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <link rel="stylesheet" href="CW_SDG_website_stylesheet.css">
+</head>
+<body>
+    <header>
+        <h1 class="enmedio"> SDG #1: Poverty </h1>
+    </header>
+    <!-- page intro -->
+    <section>
+        <nav>
+            <h3 class="questionsStart"> Frequently Asked Questions: </h3>
+            <h4 class="questions"> <u> Why does poverty happen?</u> </h4>
+            <h4 class="questions"> <u> What do you think we should do to fight worldwide poverty?</u> </h4>
+            <h4 class="questions"> <u> How can we as a community help this problem? </u> </h4>
+        </nav>
+        <!-- pic 1 -->
+        <article>
+            <img src="poverty_pic_1.png" alt="Poverty Around the World from wikipedia.com" class="poverty_pic_1" />
+        </article>
+    </section>
+    <!-- pregunta 1 -->
+    <div>
+        <h2 class="pregunta1"> Question #1: Why does poverty happen? </h2>
+        <p class="respuesta1"> Poverty happens because of... </p>
+    </div>
+    <!-- pregunta 2 -->
+    <div>
+        <h2 class="pregunta1"> Question #2: What do you think we should do to fight poverty worldwide? </h2>
+        <p class="respuesta1"> We can fight poverty in many different ways... </p>
+    </div>
+    <!-- pregunta 3 -->
+    <div>
+        <h2 class="pregunta1"> Question #3: How can we as a community help this problem? </h2>
+        <p class="respuesta1"> We can help fight poverty within our communities by... </p>
+    </div>
+</body>
+</html>
